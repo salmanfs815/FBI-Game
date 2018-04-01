@@ -1,13 +1,3 @@
-# FBI_the_Game.py 
-#
-# This Python program is a game where the player tries to find bones that
-# have been buried in a backyard. The data for the contruction of the game
-# (including backyard dimensions, size of bones, number of bones, and the
-# coordinates of the bones) is stored in an external data file.
-#
-# Salman Siddiqui
-# November 2015
-
 # global variables and constants
 dataFile = 'FBI_the_Game_Data_2.txt'
 hiddenBone = " X " # this is how hidden bones are represented in the 2D backyard array
